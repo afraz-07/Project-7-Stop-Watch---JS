@@ -12,13 +12,17 @@ body{
 .digit{
     font-size: 100px;
     color: white;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 
+}
+
+#hr{
+    width: 200px;
 }
 
 
 .txt{
-    font-family: 'Michroma', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     font-size: 25px;
     padding: 0 20px ;
